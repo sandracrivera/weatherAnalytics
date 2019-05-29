@@ -1,0 +1,27 @@
+.weather .ant-layout {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.weather .ant-layout-header {
+  background-color: #2196f3;
+  color: white;
+  font-size: 1.8rem;
+  padding: 0 3rem;
+}
+
+.weather .ant-layout-content {
+  padding: 4rem 2rem;
+}
+
+.weather .ant-layout-sider-zero-width-trigger,
+.weather .ant-layout-sider-zero-width-trigger:hover {
+  top: 0;
+  background-color: #f0f2f5;
+  color: #333333;
+}
+
+.weather .ant-layout-sider {
+  background-color: #f0f2f5;
+  padding: 1rem;
+}

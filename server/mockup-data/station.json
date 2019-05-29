@@ -1,0 +1,28 @@
+[{
+  "id"        : "da25e204-7387-4cb5-8344-b3c9c4ce2823",
+  "region"    : "a30f66c7-4cb7-4c67-85a0-43dd05d6ca1f",
+  "agency"    : "738ac4c1-0eca-492c-b1a6-ddf661094a09",
+  "name"      : "HARRINGTON CDA CS",
+  "IATA"      : "CAHR",
+  "WMO"       : "7135",
+  "lat"       : 46.343611,
+  "long"      : -63.169722,
+  "elevation" : 53,
+  "provider"  : "MSC",
+  "dataset"   : "CA",
+  "type"      : "auto"
+},
+{
+  "id"        : "aa25e204-7387-4cb5-8344-b3c9c4ce282a",
+  "region"    : "a30f66c7-4cb7-4c67-85a0-43dd05d6ca1f",
+  "agency"    : "738ac4c1-0eca-492c-b1a6-ddf661094a09",
+  "name"      : "OTHER STATION",
+  "IATA"      : "CAHR",
+  "WMO"       : "7135",
+  "lat"       : 46.343611,
+  "long"      : -63.169722,
+  "elevation" : 53,
+  "provider"  : "MSC",
+  "dataset"   : "CA",
+  "type"      : "auto"
+}]

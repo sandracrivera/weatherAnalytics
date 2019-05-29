@@ -1,0 +1,35 @@
+[
+    {
+        "id": "738ac4c1-0eca-492c-b1a6-ddf661094a09",
+        "name" : "Environment Canada",
+        "type"  : "gov",
+        "country" : "ca",
+        "url" : "https://weather.gc.ca"
+    },
+
+    {
+        "id" : "05c0ad08-5c06-41b0-92e5-1e8edc915fcb",
+        "name" : "National Oceanic And Athmospheric Administration",
+        "type" : "gov",
+        "country" : "us",
+        "url" : "https://www.weather.gov/"
+    },
+
+    {
+        "id" : "e17f8036-2537-46ba-a124-43fe9fd9a231",
+        "name" : "Meteo Group",
+        "type" : "com",
+        "country" : "global",
+        "url" : "https://www.meteogroup.com"
+    },
+
+    {
+        "id"     : "f73a5ac8-19eb-465d-a925-2cc1b503bc49",
+        "name"   : "World Meteoroligcal Organization",
+        "type"   : "int",
+        "country" : "global",
+        "url" : "https://public.wmo.int/en"
+
+    }
+
+]

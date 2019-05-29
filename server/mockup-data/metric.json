@@ -1,0 +1,30 @@
+[
+    { 
+        "id"    : "e9f795d2-cb0d-45f5-bfd8-1ea134cb5cea",
+        "name"  : "Air Temperature",
+        "unit"  : "Farenheit",
+        "enabled" : true
+    },
+
+    { 
+        "id"    : "70cac38d-148a-4404-84b1-03ed10a169d4",
+        "name"  : "Dew Point",
+        "unit"  : "celcius",
+        "enabled" : false
+    },
+
+    { 
+        "id"    : "ca7039c9-b192-4264-98c3-58b5459d65c2",
+        "name"  : "Relative Humidity",
+        "unit"  : "%",
+        "enabled" : false
+    },
+
+    { 
+        "id"    : "7ff0c7a0-44f4-4259-80ce-f585a583cc5d",
+        "name"  : "Wind Speed",
+        "unit"  : "mph",
+        "enabled" : false
+    }
+
+]
